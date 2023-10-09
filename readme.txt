@@ -18,7 +18,7 @@ As discussed in the above references full implementation requires additional com
 
 
 Benchmark calculation
-The following example of 27Na calculation is provided for benchmarking.
+The following example of 27Ne calculation is provided for benchmarking.
  
 ------------HAMILTONIAN--------
 Reading Interactions from: spsdpfpb.int
